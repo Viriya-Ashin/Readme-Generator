@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Readme-generator is a Node.js command-line application and answering a series of prompts.
+Readme-generator is a Node.js command-line application and answering a series of prompts questions.
 
 ## Table of Contents
 - [Description](#description)
@@ -15,7 +15,7 @@ Readme-generator is a Node.js command-line application and answering a series of
 - [Questions](#questions)
 
 ## Installation
-git clone, navigate the the diresctory and npm install
+git clone, navigate to the directory, npm install
 
 ## Usage
 node index.js
@@ -24,14 +24,14 @@ node index.js
 This project is licensed under the MIT license.
 
 ## Contributing
-create new feature brand
+Create a new feature branch and submit
 
 ## Tests
-nmp test
+Test for Readme-generator
 
 ## Questions
 For any additional questions, you can reach me through the following:
 
-- GitHub: [@Viriya-ashin](https://github.com/Viriya-ashin)
+- GitHub: [@Viriya-Ashin](https://github.com/Viriya-Ashin)
 - Email: [tejobhasa.mm@gmail.com](mailto:tejobhasa.mm@gmail.com)
   
