@@ -105,6 +105,6 @@ function init() {
 ```
 
 ## Walkthrough Video
-For a demonstration of the README Generator functionality, please view the [walkthrough video](https://your-video-link).
+For a demonstration of the README Generator functionality, please view the [walkthrough video](https://youtu.be/1rQVjNwpFnk?si=IYoF602bT8SC-ZYT).
 
 
